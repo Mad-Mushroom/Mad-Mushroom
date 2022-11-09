@@ -36,5 +36,5 @@ Other Social-Media
 
 Other Info
 -----------------------------------------------------------------------
-* The current Text Editor I use: **VIM
-* Where I am located: **Germany
+* The current Text Editor I use: **VIM**
+* Where I am located: **Germany**
