@@ -30,8 +30,10 @@ My Skills
 Other Social-Media
 -----------------------------------------------------------------------
 > Twitter
+https://twitter.com/MadMushroom8
 
 > Reddit
+https://www.reddit.com/user/MadMushroom8
 
 
 Other Info
