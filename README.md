@@ -39,4 +39,4 @@ https://www.reddit.com/user/MadMushroom8
 Other Info
 -----------------------------------------------------------------------
 * The current Text Editor I use: **VIM**
-* Where I am located: **Germany**
+* My favourite programming language: **C or C++**
