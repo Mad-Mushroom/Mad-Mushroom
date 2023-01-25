@@ -41,6 +41,8 @@ Other Info
 * The current Text Editor I use: **VIM**
 * My favourite programming language: **C or C++**
 
+Statistics
+-----------------------------------------------------------------------
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mad-Mushroom&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&custom_title=Statistics&hide_border=true">
 </p>
