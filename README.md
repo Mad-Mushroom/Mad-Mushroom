@@ -38,7 +38,7 @@ https://www.reddit.com/user/MadMushroom8
 
 Other Info
 -----------------------------------------------------------------------
-* The current Text Editor I use: **VIM**
+* The current Text Editor I use: **NeoVim**
 * My favourite programming language: **C or C++**
 
 Statistics
