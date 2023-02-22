@@ -35,6 +35,9 @@ https://twitter.com/MadMushroom8
 > Reddit
 https://www.reddit.com/user/MadMushroom8
 
+> Discord
+MadMushroom#0175
+
 
 Other Info
 -----------------------------------------------------------------------
