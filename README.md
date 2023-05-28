@@ -19,12 +19,18 @@ My Skills
 > Applications
 
 * Visual Studio Code
+* Visual Studio
+* XCode
 * VIM
 * Audacity
+* Garage Band
+* Logic Pro
 * Shotcut
+* Final Cut Pro
 * GIMP
 * Logisim
 * Sublime Text
+* Atom
 
 
 Other Social-Media
