@@ -1,6 +1,6 @@
 ### Hi :)
 
-I'm MadMushroom and I have fun coding for around 9 years now. I started with Basic and worked my way all the way up to Assembly :) Right now I'm working on several projects, including: OpenOS, MadEngine, MadLang or a CPU :D
+I'm MadMushroom and I have fun coding for around 9 years now. I started with Basic and worked my way all the way up to Assembly :) Right now I'm working on several projects.
 
 
 My Skills
