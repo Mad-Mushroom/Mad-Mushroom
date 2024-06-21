@@ -13,6 +13,7 @@ My Skills
 * C#
 * Lua
 * Python
+* JavaScript (not Full-Stack)
 
 > Applications
 
